@@ -4,7 +4,7 @@
  * main - Entry point
  *
  * Description: print all possible different
- *		combination of two digits.
+ *		combinations of two digits.
  *
  * Return: Always 0 (Success)
 */
