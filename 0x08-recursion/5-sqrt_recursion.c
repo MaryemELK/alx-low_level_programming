@@ -13,7 +13,7 @@ return (square(n, 1));
 }
 
 /**
- * _sqrt_recursion - find natural square root
+ * square - find square root
  * @n: int
  * @val: square root
  * Return: int
