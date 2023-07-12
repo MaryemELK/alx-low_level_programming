@@ -2,11 +2,11 @@
 #include <stdlib.h>
 
 /**
- * free_gird - ...
- * @grid: ...
- * @height: ...
+ * free_grid - free the grid
+ * @grid: grid of memories
+ * @height: int
  *
- * Return: ...
+ * Return: void
 */
 
 void free_grid(int **grid, int height)
